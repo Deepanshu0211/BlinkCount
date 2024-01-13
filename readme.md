@@ -31,15 +31,16 @@ Press 'q' to exit the video stream.
 
 The script displays the live video stream with rectangles around detected eyes and the blink count. The blink count is saved to a file named blink_count.json.
 
+```
 
-#Acknowledgments
+## Acknowledgments
 
 This script uses the `shape_predictor_68_face_landmarks.dat` model from the dlib library.
 
-#License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-#Contributing
+## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
